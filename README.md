@@ -47,10 +47,10 @@ Copie a string de conexão do MongoDB, que estará no formato:
 
 
 mongodb+srv://<usuario>:<senha>@cluster0.mongodb.net/<nome-do-banco>?retryWrites=true&w=majority
-No projeto, substitua a string de conexão no arquivo config/db.js com a sua string de conexão, como mostrado abaixo:
+No projeto, crie o arquivo .env e lá acrescente assim :
 ```
+![image](https://github.com/user-attachments/assets/08d89be8-d072-4119-947d-b7cb1721d8af)
 
-![image](https://github.com/user-attachments/assets/97a0dce0-9853-4a17-a8cd-7d12a0eb9247)
 
 
 ```
