@@ -30,7 +30,8 @@ Primeiro, clone o repositório para sua máquina local:
 2. Instalando Dependências
 Depois de clonar o repositório, entre na pasta do projeto e instale as dependências necessárias:
 
-![image](https://github.com/user-attachments/assets/6f44d634-36ba-4c52-bd74-93a4611b4b17)
+![image](https://github.com/user-attachments/assets/fb5cca95-d673-461d-b825-6e0d8a2a0460)
+
 
 
 3. Configurando o Banco de Dados
