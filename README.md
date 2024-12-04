@@ -49,7 +49,7 @@ Copie a string de conexão do MongoDB, que estará no formato:
 mongodb+srv://<usuario>:<senha>@cluster0.mongodb.net/<nome-do-banco>?retryWrites=true&w=majority
 No projeto, crie o arquivo .env e lá acrescente assim :
 ```
-![image](https://github.com/user-attachments/assets/08d89be8-d072-4119-947d-b7cb1721d8af)
+![image](https://github.com/user-attachments/assets/18c399b7-014d-485f-a228-ef0475d86a0c)
 
 
 
