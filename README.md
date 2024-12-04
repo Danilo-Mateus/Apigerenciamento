@@ -45,8 +45,7 @@ Após a criação, acesse o Cluster e crie um Database User com permissões de l
 
 Copie a string de conexão do MongoDB, que estará no formato:
 
-plaintext
-Copiar código
+
 mongodb+srv://<usuario>:<senha>@cluster0.mongodb.net/<nome-do-banco>?retryWrites=true&w=majority
 No projeto, substitua a string de conexão no arquivo config/db.js com a sua string de conexão, como mostrado abaixo:
 
@@ -102,3 +101,8 @@ Faça login com as credenciais do usuário registrado.
 Crie uma ou mais categorias.
 Crie tarefas e associe-as a essas categorias.
 Liste as tarefas associadas ao usuário, filtrando por categoria.
+
+## Autores
+Danilo Mateus
+João Vilker
+Guilherme Cardoso
